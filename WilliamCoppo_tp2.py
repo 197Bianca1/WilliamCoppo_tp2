@@ -167,3 +167,4 @@ fenetre = OutlinerOrganizer()
 
 # affiche la fenetre a l ecran 
 fenetre.show()
+# correction
